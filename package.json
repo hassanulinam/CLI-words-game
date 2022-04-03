@@ -1,0 +1,16 @@
+{
+  "name": "assg-1",
+  "version": "1.0.0",
+  "description": "My first assignment",
+  "main": "dict.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "readline-async": "^0.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
